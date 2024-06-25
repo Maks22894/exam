@@ -1,0 +1,56 @@
+
+
+
+h2 {
+    margin-bottom: 10px;
+}
+
+p {
+    margin-bottom: 5px;
+}
+
+form {
+    margin-bottom: 10px;
+
+}
+
+
+input[type='text'],
+textarea,
+input[type='file'] {
+    width: 300px;
+    padding: 5px;
+    margin-bottom: 5px;
+
+}
+
+.textareaOne{
+    resize: none;
+}
+
+
+input[type='submit'] {
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.item {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.item img {
+    max-width: 200px;
+    max-height: 200px;
+    margin-bottom: 5px;
+}
+
+
+h1 a{
+    color: white;
+    text-decoration: none;
+}
+
+
